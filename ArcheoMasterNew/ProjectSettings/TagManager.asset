@@ -3,15 +3,25 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Cashier
+  - seller
+  - Stand1
+  - cashier
+  - cashier1
+  - Stand3
+  - Stand2
+  - Soil
+  - kazi
+  - SoilPickable
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Player
   - Water
   - UI
-  - 
+  - SoilPickable
   - 
   - 
   - 
